@@ -5,14 +5,18 @@ This project demonstrates how to use linear regression to predict monthly sales 
 ## Table of Contents
 
 - [Introduction](#introduction)
+- [Output](#output)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
 
 ## Introduction
 
 The goal of this project is to predict future sales using a linear regression model. Historical sales data is preprocessed, transformed into a supervised learning problem, and used to train a linear regression model. The project also includes evaluation metrics and visualizations to compare predicted sales against actual sales. This is an excellent starting point for learning the basics of ML.
+
+
+## Output
+![Image](https://github.com/user-attachments/assets/9b72ab29-b660-4155-a834-9b14639722b2)
 
 ## Prerequisites
 
